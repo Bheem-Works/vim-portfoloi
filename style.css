@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+}
+.keyboaard{
+    color: rgb(212, 201, 201);
+}
+#box1 :hover{
+    transform: scale(1.2);
+    color: orange ;
+}
